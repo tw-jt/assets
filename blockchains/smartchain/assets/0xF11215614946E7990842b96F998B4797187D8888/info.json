@@ -1,0 +1,11 @@
+{
+    "name": "FAKE USDT",
+    "type": "BEP20",
+    "symbol": "FAKE USDT.S",
+    "decimals": 18,
+    "description": "This token is malicious do not interact",
+    "website": "https://bscscan.com/token/0xf11215614946e7990842b96f998b4797187d8888",
+    "explorer": "https://bscscan.com/token/0xf11215614946e7990842b96f998b4797187d8888",
+    "status": "spam",
+    "id": "0xF11215614946E7990842b96F998B4797187D8888"
+}
