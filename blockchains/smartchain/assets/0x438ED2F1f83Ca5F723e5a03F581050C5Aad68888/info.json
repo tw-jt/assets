@@ -1,0 +1,11 @@
+{
+    "name": "SCAM Tether USD",
+    "type": "BEP20",
+    "symbol": "SCAM USDT",
+    "decimals": 18,
+    "description": "This token is malicious do not interact",
+    "website": "https://bscscan.com/address/0x438ed2f1f83ca5f723e5a03f581050c5aad68888",
+    "explorer": "https://bscscan.com/address/0x438ed2f1f83ca5f723e5a03f581050c5aad68888",
+    "status": "spam",
+    "id": "0x438ED2F1f83Ca5F723e5a03F581050C5Aad68888"
+}
